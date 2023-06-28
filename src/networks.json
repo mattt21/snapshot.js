@@ -844,6 +844,21 @@
     "start": 1487453,
     "logo": "ipfs://QmRdzYGhFRG8QLzMJahHrw3vETE2YZ9sywQbEkenSjKEvb"
   },
+  "324": {
+    "key": "324",
+    "name": "zkSync Era",
+    "chainId": 324,
+    "network": "zkSync Era Mainnet",
+    "multicall": "0xb1F9b5FCD56122CdfD7086e017ec63E50dC075e7",
+    "rpc": [
+      "https://mainnet.era.zksync.io"
+    ],
+    "explorer": {
+      "url": "https://explorer.zksync.io"
+    },
+    "start": 7237775,
+    "logo": "ipfs://QmPSKCnWTnwE6JS38WF2aZnkcb4VtADfjvopNH7mFeXBkr"
+  },
   "336": {
     "key": "336",
     "name": "Shiden Network",
